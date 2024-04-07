@@ -31,3 +31,17 @@ let dc_heros=["flash","IronMan","spiderman"]
 // let another_array=[...marvel_heros,...dc_heros]
 
 // console.log(another_array);
+
+
+
+
+// console.log(Array.from("talabdar"));
+
+
+
+// let score1 =100;
+// let score2=200;
+// let score3=300;
+
+
+// console.log(Array.of(score1,score2,score3));
